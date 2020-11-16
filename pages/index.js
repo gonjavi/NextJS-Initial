@@ -20,9 +20,9 @@ const Index = props => {
 }
 
 Index.getInitialProps = async ctx => {
-  const res = await fetch('https://jsonplaceholder.typicode.com/users')
+  const res = await fetch('https://reqres.in/api/users')
   const data = await res.json();  
-  return { user: data  }
+  return { user: data.data  }
 }
 
 export default Index;
