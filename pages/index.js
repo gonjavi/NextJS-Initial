@@ -4,7 +4,7 @@ import fetch from 'isomorphic-fetch';
 import Users from "../components/Users";
 
 const Index = props => {
-  console.log(props)
+  // console.log(props)
   return (  
     <div>
       <Head>
