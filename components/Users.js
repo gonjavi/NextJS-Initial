@@ -6,7 +6,7 @@ const Users = props => {
       <ul className="list-group">
         {
           props.users.map(user => (
-            <li key={user.id} className="list-group-item list-group-item-action">
+            <li key={user.id} className="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               <div>
                 <h5>{user.first_name} {user.last_name}</h5>
                 <p>Email: {user.email}</p>
