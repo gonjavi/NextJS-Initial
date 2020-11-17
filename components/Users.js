@@ -1,7 +1,6 @@
 import Router from 'next/router';
 
 const Users = props => {
-  console.log(props)
   return (
     <div>
       <ul className="list-group">

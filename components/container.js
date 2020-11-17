@@ -5,7 +5,7 @@ const Container = props => {
   return (
     <div>
       <Head>        
-        <lik rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/flatly/bootstrap.min.css" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/flatly/bootstrap.min.css" />
       </Head>
       <Navigation />
       <div className="container p-4">
