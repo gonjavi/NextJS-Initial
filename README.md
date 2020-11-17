@@ -2,6 +2,19 @@
 
 Este es una aplicación basica realizada con NextJS que lista todos usuarios de una API y de igual manera los muestra individualmente. 
 
+
+## Autor:
+
+👤 **Gonza Javier Mancilla**
+
+- Github: [@gonjavi](https://github.com/gonjavi)
+- Linkedin: [@g-javier-mancilla](https://www.linkedin.com/in/g-mancillla)
+
+## Live Demo 
+
+[Live Demo](https://nextjs-users.herokuapp.com/)
+
+
 ### Prerequisitos
 
 - npm 6.14.8
@@ -19,16 +32,6 @@ Add the following characteristics:
 
 - Update the style
 
-## Live Demo 
-
-[Live Demo](https://nextjs-users.herokuapp.com/)
-
-
-## Autor:
-👤 **Gonza Javier Mancilla**
-
-- Github: [@gonjavi](https://github.com/gonjavi)
-- Linkedin: [@g-javier-mancilla](https://www.linkedin.com/in/g-mancillla)
 
 ## 🤝 Contribución
 
