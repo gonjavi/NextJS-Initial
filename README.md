@@ -15,7 +15,7 @@ Este es una aplicación basica realizada con NextJS que lista todos usuarios de 
 [Live Demo](https://nextjs-users.herokuapp.com/)
 
 
-### Prerequisitos
+## Prerequisites
 
 - npm 6.14.8
 - node 14.10.0
